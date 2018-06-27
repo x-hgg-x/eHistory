@@ -1,0 +1,13 @@
+{
+   "chrome_url_overrides": {
+      "history": "history.html"
+   },
+   "description": "Enhanced History",
+   "icons": {
+      "128": "css/icon.png"
+   },
+   "manifest_version": 2,
+   "name": "eHistory",
+   "permissions": [ "history", "chrome://favicon/" ],
+   "version": "1.14"
+}
