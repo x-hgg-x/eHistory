@@ -1,6 +1,6 @@
 # eHistory
 
-This repository is based from https://github.com/amasad/eHistory.
+This repository is derived from https://github.com/amasad/eHistory.
 
 This takes the current chrome history to the next level by adding a set of very useful search operators which is inspired by google's search operators.
 It also works around many Google Chrome history bugs and makes it easy to use.
